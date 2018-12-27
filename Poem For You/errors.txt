@@ -1,0 +1,14 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 22: expected statement.
+    nvl "曾经我很苦恼。。。"
+       ^
+
+File "game/script.rpy", line 23: expected statement.
+    nvl "到底是选清华，还是选北大，两个好像都还不错！"
+       ^
+
+Ren'Py Version: Ren'Py 7.1.3.1092
+Wed Dec 26 23:12:02 2018
